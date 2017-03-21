@@ -12,7 +12,7 @@
                     <p style="font-weight: 700">Rp 89.0000</p>
                 </div>
                 <div class="panel-body">
-                    <div class="col-xs-3 col-sm-2 col-md-2 col-lg-2" style="padding:0">
+                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" style="padding:0">
                         <span class="glyphicon glyphicon-heart" style="color: #808080; font-weight: 900; line-height: 2.4rem; padding-right: 10px" aria-hidden="true"></span><span>Naksir</span>
                     </div>
                     <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" style="padding:0">

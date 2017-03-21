@@ -24,7 +24,7 @@
 <body>
     <div id="app">
         <nav class="navbar navbar-default navbar-static-top">
-            <div class="container" style="width: 410px;">
+            <div class="container" >
                 <div class="navbar-header" >
 
                     <!-- Collapsed Hamburger -->
@@ -51,7 +51,7 @@
                     <!-- Right Side Of Navbar -->
                     <ul class="nav navbar-nav navbar-right">
                         <!-- Authentication Links -->
-                        <li><a href=""><i class="glyphicon glyphicon-search"></i></a></li>
+                        <!-- <li><a href=""><i class="glyphicon glyphicon-search"></i></a></li> -->
                         @if (Auth::guest())
                             <li><a href="{{ route('login') }}">Login</a></li>
                             <li><a href="{{ route('register') }}">Register</a></li>
