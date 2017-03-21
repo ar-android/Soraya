@@ -1,0 +1,25 @@
+.btn-beli {
+	padding-left: 20px;
+	padding-right: 20px;
+    font-size: 1.4rem;
+    font-family: inherit;
+    font-weight: 400;
+    vertical-align: middle;
+    cursor: pointer;
+    position: relative;
+    border: solid .1rem;
+    border-top-color: transparent;
+    border-bottom-color: rgba(0,0,0,0.28);
+    border-right-color: rgba(0,0,0,0.12);
+    border-left-color: rgba(0,0,0,0.12);
+    border-radius: .2rem;
+    box-shadow: 0 0.1rem 0.1rem rgba(0,0,0,0.08);
+    height: 3.2rem;
+    overflow: hidden;
+    outline: 0px;
+    text-decoration: none;
+    text-shadow: -0.1rem -0.1rem rgba(0,0,0,0.08);
+    background-color: #d73c3c;
+    background-image: linear-gradient(to bottom, #f15656 0%, #d73c3c 100%);
+    color: #fff;
+}
